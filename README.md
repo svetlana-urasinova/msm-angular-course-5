@@ -1,6 +1,6 @@
-# MyFirstApp
+# #5: Practicing Services
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Practice #5 for Maximillian Schwarzmüller Angular course
 
 ## Development server
 
